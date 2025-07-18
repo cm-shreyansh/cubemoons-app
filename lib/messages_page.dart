@@ -72,6 +72,6 @@ Widget _buildContactListTile(BuildContext context) {
       backgroundImage: NetworkImage('https://i.pravatar.cc/150'),
     ),
     title: Text("This is it", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
-    subtitle: Text("shreyanshsahu.dev@gmail.com", style: TextStyle(color: Colors.grey, fontWeight: FontWeight.bold, fontSize: FontSizes.small)),
+    subtitle: Text("shreyanshsahu.dev@gmail.com", style: TextStyle(color: Colors.grey, fontSize: FontSizes.small)),
   );
 }
